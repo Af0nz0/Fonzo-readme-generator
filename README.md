@@ -10,7 +10,7 @@ Navigate to the project's directory.
 Install the required dependencies by running the command npm install.
 ## Usage
 To generate a README.md file
- [![Readme Generator]( https://youtu.be/vqKFuCSy1Lk)]
+ [![Readme Generator]( https://youtu.be/vqKFuCSy1Lk)](https://youtu.be/vqKFuCSy1Lk)
 
 Open your terminal or command prompt.
 Navigate to the project's directory.
